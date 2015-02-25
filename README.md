@@ -6,6 +6,9 @@ Entire Game was coded in c++ using Xlib.
 
 There are no images used in this project.
 
+#Demo
+https://vimeo.com/120443236
+
 #Compile and Run
 Commands to compile and run:
 
